@@ -569,7 +569,7 @@ $(document).ready(function($){
     });
 
     $('#sendFormButton').click(function() {
-        var link = 'mailto:projetdestyle@gmail.com?';
+        var link = 'mailto:storeurbain@gmail.com?';
         link += 'subject=' + encodeURI('Demande de service en ligne');
         link += '&body=';
         link += encodeURI('Bonjour,');
