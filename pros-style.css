@@ -270,7 +270,7 @@ h1, h2, h3 {
 
 @media only screen and (min-width: 1024px) {
     #suppliers .supplier:first-child {
-        padding-left: 3%;
+        padding-left: 5%;
     }
     #suppliers .supplier:last-child {
         padding-right: 0;
@@ -314,6 +314,10 @@ h1, h2, h3 {
     #suppliers .supplier {
         width: 40%;
         height: 50px;
+    }
+
+    #suppliers .supplier:nth-child(4) {
+        padding-left: 2%;
     }
 
     #suppliers .supplier:nth-child(5) {
