@@ -1,3 +1,12 @@
+.lang-link {
+    color:white;
+    text-transform:none;
+    position: absolute;
+    top: 15px;
+    right: 15px;,
+    font-size: 15px;
+}
+
 #home .home-content h2 {
     margin: 50px 0;
     font-size: 20px;
