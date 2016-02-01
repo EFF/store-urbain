@@ -150,8 +150,12 @@ h1, h2, h3 {
     text-align: left;
 }
 
-#footer .contact div {
-    margin: 40px 0;
+#footer .contact >div {
+    margin: 30px 0;
+}
+
+#footer .credit-cards span{
+    margin-right: 10px;
 }
 
 #footer .realisations {
