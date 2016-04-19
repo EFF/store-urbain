@@ -584,7 +584,7 @@ $(document).ready(function($){
         link += encodeURI('\n\r');
         link += 'Bonne journée!';
         link += encodeURI('\n\r\n\r');
-        link += 'Envoyé via projetdestyle.ca';
+        link += 'Envoyé via storeurbain.ca';
 
         window.open(link);
     });
